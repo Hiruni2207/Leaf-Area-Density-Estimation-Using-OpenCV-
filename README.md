@@ -6,12 +6,12 @@ This project estimates the **leaf area density** of rubber plant images using im
 
 ##  Key Features
 
-- ✅ Detects leaf regions using Canny edge detection and contour filling
-- ✅ Enhances leaf visibility by adjusting intensity
-- ✅ Segments green regions using RGB color thresholding
-- ✅ Applies morphological operations to refine segmentation
-- ✅ Calculates **Leaf Area Density (%)**
-- ✅ Supports real-time visual inspection with `cv2.imshow`
+- Detects leaf regions using Canny edge detection and contour filling
+- Enhances leaf visibility by adjusting intensity
+- Segments green regions using RGB color thresholding
+- Applies morphological operations to refine segmentation
+- Calculates **Leaf Area Density (%)**
+- Supports real-time visual inspection with `cv2.imshow`
 
 ---
 
